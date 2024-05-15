@@ -605,7 +605,6 @@ imshow(r1,[]),title('STEP:11 Hysteresis Thresholding of Image: 1');
 
 
 % part 2*****
-% Same Iris
 
 
 % Read the image, resize it to 256 x 256
